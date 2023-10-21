@@ -1,0 +1,63 @@
+
+body{
+
+    background-image: url(img/fondo.jpg);
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+
+nav{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(88,156,170,1) 40%, rgba(88,156,170,1) 60%, rgba(255,255,255,1) 100%);
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: 30px;
+}
+
+h1{
+    padding-right: 700px;
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(44, 24, 92);
+}
+
+#silueta{
+    padding-right: 40px;
+    width: 45px;
+    display: inline-block;
+}
+
+p{
+    color: white;
+    font-size: 40px;
+    padding: 60px;
+    text-align: justify;
+}
+
+#portada{
+    padding-top: 100px;
+    width: 800px;
+    height: auto;
+}
+
+#fototexto{
+    display: flex;
+}
