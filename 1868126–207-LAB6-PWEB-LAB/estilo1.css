@@ -28,16 +28,31 @@ a:hover{
 
 .texto{
     color: white;
-    font-size: 25px;
+    font-size: 30px;
     text-align: justify;
 }
 
-#silueta{
+h3{
+    font-size: 45px;
+    text-align: center;
+    color: white;
+}
+
+img{
     width: 500px;
     height: auto;
+    padding: 20px;
+}
+
+#silueta{
     padding-right: 40px;
     width: 100px;
     display: inline-block;
 }
 
+.texto1{
+    color: white;
+    font-size: 15px;
+    background: grey;
+}
 
